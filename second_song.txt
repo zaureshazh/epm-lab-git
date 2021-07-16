@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 linkin park - leave out all the rest
 
 When my time comes
@@ -12,3 +13,6 @@ Leave out all the rest
 =======
 linkin park - leave out all the rest
 >>>>>>> 05df8e5... define second song
+=======
+linkin park - leave out all the rest
+>>>>>>> 05df8e5397887b3840f768086ecb4145f2d522dd
