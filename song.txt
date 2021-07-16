@@ -1,3 +1,4 @@
 my fav song
 
 name: Anything
+artist: Example
