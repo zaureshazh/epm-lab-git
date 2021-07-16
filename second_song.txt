@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 linkin park - leave out all the rest
 
 When my time comes
@@ -8,3 +9,6 @@ And when you're feeling empty
 Keep me in your memory
 Leave out all the rest
 Leave out all the rest
+=======
+linkin park - leave out all the rest
+>>>>>>> 05df8e5... define second song
